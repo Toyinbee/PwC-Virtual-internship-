@@ -23,6 +23,7 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 Define proper KPIs
 Create a dashboard for the retention manager reflecting the KPIs
 Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be 
+
 ![Task 3 image 1](https://github.com/Toyinbee/PwC-Virtual-internship-/assets/134174105/7e02ce4a-5fa4-4242-9a0f-5ea58dc59d40)
 
 ![Task 3 image 2](https://github.com/Toyinbee/PwC-Virtual-internship-/assets/134174105/d4484069-c044-4616-94b2-daecdfcd4479)
@@ -55,5 +56,5 @@ Average Performance rating: women
 
 ![Task 4 image 3](https://github.com/Toyinbee/PwC-Virtual-internship-/assets/134174105/c40a11fd-d1d3-4c44-b5d4-81d63a3c0c80)
 
-Link to my certificate
+Link to my certificate:
 

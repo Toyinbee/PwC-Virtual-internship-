@@ -56,5 +56,3 @@ Average Performance rating: women
 
 ![Task 4 image 3](https://github.com/Toyinbee/PwC-Virtual-internship-/assets/134174105/c40a11fd-d1d3-4c44-b5d4-81d63a3c0c80)
 
-Link to my certificate:
-
